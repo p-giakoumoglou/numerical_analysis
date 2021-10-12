@@ -1,4 +1,4 @@
-# Numerical Analysis
+# Numerical Analysis in MATLAB and Python
 Numerical analysis methods for the relative course in Electrical and Computer Engineering (Aristotle University of Thessaloniki)
 
 * Chapter 3: Equations
@@ -12,3 +12,6 @@ Numerical analysis methods for the relative course in Electrical and Computer En
 * Chapter 11: Ordinary Differential Equations
 
 from Pitsoulis book
+
+## Notes
+Some of the code is mine, some of the code is directly from Pitsoulis book with changes
